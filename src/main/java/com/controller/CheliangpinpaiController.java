@@ -156,9 +156,6 @@ public class CheliangpinpaiController {
         cheliangpinpaiService.updateById(cheliangpinpai);//全部更新
         return R.ok();
     }
-
-    
-
     /**
      * 删除
      */

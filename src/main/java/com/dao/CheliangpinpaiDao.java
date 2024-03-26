@@ -14,7 +14,6 @@ import com.entity.view.CheliangpinpaiView;
 
 /**
  * 车辆品牌
- * 
  * @ author
  * @ email
  * @ date

@@ -70,7 +70,7 @@
 			
 			<div id="breadcrumb">
 				<span class="en">DATA SHOW</span>
-				<span class="cn">汽车租赁展示</span>
+				<span class="cn">电动车租赁展示</span>
 			</div>
 
 			<!-- 图文列表 -->

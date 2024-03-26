@@ -51,8 +51,8 @@ public class AuthorizationInterceptor implements HandlerInterceptor {
         //从header中获取token
         String token = request.getHeader(LOGIN_TOKEN_KEY);
         
-        /**
-         * 不需要验证权限的方法直接放过
+        /*
+          不需要验证权限的方法直接放过
          */
         if(annotation!=null) {
         	return true;

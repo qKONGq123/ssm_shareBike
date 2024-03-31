@@ -41,9 +41,9 @@ import com.utils.CommonUtil;
 /**
  * 用户
  * 后端接口
- * @author 
- * @email 
- * @date 2023-02-14 16:45:10
+ * @ author
+ * @ email
+ * @ date 2023-02-14 16:45:10
  */
 @RestController
 @RequestMapping("/yonghu")
@@ -229,8 +229,6 @@ public class YonghuController {
         yonghuService.insert(yonghu);
         return R.ok();
     }
-
-
     /**
      * 修改
      */
@@ -242,7 +240,7 @@ public class YonghuController {
         return R.ok();
     }
 
-    
+
 
     /**
      * 删除
